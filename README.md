@@ -3,7 +3,6 @@
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Hyuyu_kun)
 [<img src="https://img.shields.io/badge/-Qiita-55C500.svg?logo=qiita&style=for-the-badge&logoColor=white">](https://qiita.com/Hiroya_W)
 [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://Hiroya-W.github.io/)
-
 <a href="https://atcoder.jp/users/Hiroya_W" target="_blank" title="Hiroya_W"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FHiroya_W" /></a>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Hiroya-W.Hiroya-W">
 
