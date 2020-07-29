@@ -11,6 +11,7 @@
 Welcome to my page! I'm Hiroya-W.
 
 ## About
+<img align=right src="gear.svg" width="64">
 <p>
     :hammer_and_pick:
     <img src="https://img.shields.io/badge/-C-A8B9CC.svg?logo=c&style=flat-square&logoColor=white">
