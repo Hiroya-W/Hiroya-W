@@ -6,8 +6,6 @@
 <a href="https://atcoder.jp/users/Hiroya_W" target="_blank" title="Hiroya_W"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FHiroya_W" /></a>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Hiroya-W.Hiroya-W">
 
-<!-- <img align="right" alt="ouuan's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=Hiroya-W&show_icons=true"> -->
-
 Welcome to my page! I'm Hiroya-W.
 
 ## About
