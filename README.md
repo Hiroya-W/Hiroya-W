@@ -36,7 +36,7 @@ Welcome to my page! I'm Hiroya-W.
     <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000.svg?logo=intellij-idea&style=flat-square&logoColor=white">
 </p>
 <p>
-    :seedling: Infomation Science@<a href="https://www.kit.ac.jp/" target="_blank" title="kit.ac.jp">Kyoto Institute of Technology</a>
+    :seedling: Information Science@<a href="https://www.kit.ac.jp/" target="_blank" title="kit.ac.jp">Kyoto Institute of Technology</a>
 </p>
 
 
