@@ -44,8 +44,10 @@ Welcome to my page! I'm Hiroya-W.
 
 
 ---
-
+<!--
 <p align = "center">
     <img src = "https://github-readme-stats.vercel.app/api?username=Hiroya-W&show_icons=true&theme=radical&line_height=27">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Hiroya-W&theme=tokyonight">
 </p>
+-->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hiroya-W&column=7)](https://github.com/ryo-ma/github-profile-trophy)
