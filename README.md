@@ -32,7 +32,7 @@ Welcome to my page! I'm Hiroya-W.
 </p>
 <p>
     :pencil2:
-    <img src="https://img.shields.io/badge/Manjaro Linux-35BF5C.svg?logo=manjaro&style=flat-square&logoColor=white">
+    <img src="https://img.shields.io/badge/-Arch Linux-1793D1.svg?logo=arch-linux&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-i3wm-70CBF4.svg?&style=flat-square">
     <img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-VSCode-007ACC.svg?logo=visual-studio-code&style=flat-square&logoColor=white">
