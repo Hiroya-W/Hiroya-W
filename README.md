@@ -13,22 +13,22 @@
 
 <!-- Articles のバッジ -->
 <a href="https://zenn.dev/hiroya_w/articles">
-<img src="https://zenn.badge.nikaera.com/s/hiroya_w/articles?style=plastic" alt="hiroya_w articles" />
+<img src="https://zenn.badge.nikaera.com/s/hiroya_w/articles?style=flat" alt="hiroya_w articles" />
 </a>
 
 <!-- Books のバッジ -->
 <a href="https://zenn.dev/hiroya_w/books">
-<img src="https://zenn.badge.nikaera.com/s/hiroya_w/books?style=plastic" alt="hiroya_w books" />
+<img src="https://zenn.badge.nikaera.com/s/hiroya_w/books?style=flat" alt="hiroya_w books" />
 </a>
 
 <!-- Like のバッジ -->
 <a href="https://zenn.dev/hiroya_w">
-<img src="https://zenn.badge.nikaera.com/s/hiroya_w/likes?style=plastic" alt="hiroya_w likes" />
+<img src="https://zenn.badge.nikaera.com/s/hiroya_w/likes?style=flat" alt="hiroya_w likes" />
 </a>
 
 <!-- Followers のバッジ -->
 <a href="https://zenn.dev/hiroya_w/followers">
-<img src="https://zenn.badge.nikaera.com/s/hiroya_w/followers?style=plastic" alt="hiroya_w followers" />
+<img src="https://zenn.badge.nikaera.com/s/hiroya_w/followers?style=flat" alt="hiroya_w followers" />
 </a>
 
 
