@@ -11,6 +11,28 @@
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/Hiroya_W/contributions.svg)](http://qiita.com/Hiroya_W)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/Hiroya_W/followers.svg)](http://qiita.com/Hiroya_W)
 
+<!-- Articles のバッジ -->
+<a href="https://zenn.dev/hiroya_w/articles">
+<img src="https://zenn.badge.nikaera.com/s/hiroya_w/articles?style=plastic" alt="hiroya_w articles" />
+</a>
+
+<!-- Books のバッジ -->
+<a href="https://zenn.dev/hiroya_w/books">
+<img src="https://zenn.badge.nikaera.com/s/hiroya_w/books?style=plastic" alt="hiroya_w books" />
+</a>
+
+<!-- Like のバッジ -->
+<a href="https://zenn.dev/hiroya_w">
+<img src="https://zenn.badge.nikaera.com/s/hiroya_w/likes?style=plastic" alt="hiroya_w likes" />
+</a>
+
+<!-- Followers のバッジ -->
+<a href="https://zenn.dev/hiroya_w/followers">
+<img src="https://zenn.badge.nikaera.com/s/hiroya_w/followers?style=plastic" alt="hiroya_w followers" />
+</a>
+
+
+
 Welcome to my page! I'm Hiroya-W.
 
 ## About
