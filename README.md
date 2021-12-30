@@ -39,19 +39,8 @@ Welcome to my page! I'm Hiroya-W.
 <img align=right width=18% src="https://raw.githubusercontent.com/Hiroya-W/Hiroya-W/master/gears.svg" width="64">
 <p>
     :hammer_and_pick:
-    <img src="https://img.shields.io/badge/-C-A8B9CC.svg?logo=c&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&style=flat-square&logoColor=white">
-    <img src="https://img.shields.io/badge/-C Sharp-239120.svg?logo=c-sharp&style=flat-square">
-    <img src="https://img.shields.io/badge/-Unity-000000.svg?logo=unity&style=flat-square&logoColor=white">
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&style=flat-square&logoColor=white">
-    <img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=flat-square&logoColor=white">
-    <img src="https://img.shields.io/badge/-Go-76E1FE.svg?logo=go&style=flat-square&logoColor=white">
-</p>
-<p>
-    :cloud:
-    <img src="https://img.shields.io/badge/-Azure-0089D6.svg?logo=microsoft-azure&style=flat-square&logoColor=white">
-    <img src="https://img.shields.io/badge/-Heroku-430098.svg?logo=heroku&style=flat-square&logoColor=white">
 </p>
 <p>
     :pencil2:
