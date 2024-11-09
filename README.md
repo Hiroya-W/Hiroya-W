@@ -31,11 +31,10 @@
 <img src="https://zenn.badge.nikaera.com/s/hiroya_w/followers?style=flat" alt="hiroya_w followers" />
 </a>
 
-
-
 Welcome to my page! I'm Hiroya-W.
 
 ## About
+
 <img align=right width=18% src="https://raw.githubusercontent.com/Hiroya-W/Hiroya-W/master/gears.svg" width="64">
 <p>
     :hammer_and_pick:
@@ -50,16 +49,16 @@ Welcome to my page! I'm Hiroya-W.
     <img src="https://img.shields.io/badge/-VSCode-007ACC.svg?logo=visual-studio-code&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000.svg?logo=intellij-idea&style=flat-square&logoColor=white">
 </p>
-<p>
-    :seedling: Information Science@<a href="https://www.kit.ac.jp/" target="_blank" title="kit.ac.jp">Kyoto Institute of Technology</a>
-</p>
-
 
 ---
+
 <!--
 <p align = "center">
     <img src = "https://github-readme-stats.vercel.app/api?username=Hiroya-W&show_icons=true&theme=radical&line_height=27">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Hiroya-W&theme=tokyonight">
 </p>
 -->
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hiroya-W&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Contribution to Grass](https://raw.githubusercontent.com/Hiroya-W/Hiroya-W/refs/heads/output/output.png)
